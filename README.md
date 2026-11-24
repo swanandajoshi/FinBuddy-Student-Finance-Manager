@@ -1,5 +1,5 @@
 # FinBuddy – Student Finance Manager
-LA-II Mini Project · HTML5 + Bootstrap 5.3 (CDN) · **No JavaScript used**
+HTML5 + Bootstrap 5.3 (CDN) ·
 
 ## Pages
 index (Home) · login (Login/Sign Up) · dashboard · expenses · budget · goals · about
